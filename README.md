@@ -1,6 +1,6 @@
 ```text
 # online-tic-tac-toe
----------------------------------------------------
+------------------------------------------------------------------------------------------------------
 <h2>Description</h2>
 tic tac toe online is a multiplayer game that you can play 1-1 (i will add with lobbies etc)
 > for example:
@@ -16,5 +16,5 @@ tic tac toe online is a multiplayer game that you can play 1-1 (i will add with 
 
 >>> contact:
 	[~] if you want to contact the developer, you can go at: cezard597@gmail.com or at @tfwcodes on github (more info there)
----------------------------------------------------
+------------------------------------------------------------------------------------------------------
 ```
