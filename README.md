@@ -3,6 +3,7 @@
 tic tac toe online is a multiplayer game that you can play 1-1 (i will add with lobbies etc)
 
 ```text
+------------------------------
 > for example:
     [-] i am sitting in paris and i want to play with my friend that lives in italy
 	  the steps:
