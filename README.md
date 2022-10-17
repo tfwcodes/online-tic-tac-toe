@@ -15,6 +15,6 @@ tic tac toe online is a multiplayer game that you can play 1-1 (i will add with 
     │ 2. it uses dotnet 6.0                                                  │
 
 >>> contact:
-	[~] if you want to contact the developer, you can go at: cezard597@gmail.com or at @tfwcodes on github (more info there)
+    [~] if you want to contact the developer, you can go at: cezard597@gmail.com or at @tfwcodes on github (more info there)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 ```
