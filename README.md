@@ -1,5 +1,4 @@
 # online-tic-tac-toe
-------------------------------
 <h2>Description</h2>
 tic tac toe online is a multiplayer game that you can play 1-1 (i will add with lobbies etc)
 
